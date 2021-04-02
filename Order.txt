@@ -1,0 +1,4 @@
+Your item is............................GLASSWARE
+Your shipping cost is...................$30.00
+You are shipping to.....................VENUS
+Your total shipping costs are...........$129.00
